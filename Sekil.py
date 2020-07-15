@@ -49,3 +49,4 @@ while True:
         continue
     else:
         print("Hatalı Tuşlama")
+        break
